@@ -23,6 +23,16 @@
         "id": "https://ellajandosaul.github.io/U22/track-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 968.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/U22/annotations/track-1-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ellajandosaul.github.io/U22/track-1/canvas-1/paintings",

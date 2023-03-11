@@ -1,0 +1,6 @@
+0.000000	386.496459	Performer 1 speaking
+413.081282	714.273419	Performer 2 Speaking
+22.853732	26.462216	Laugh in audience
+65.674409	76.259295	Laugh from the audience
+386.496459	408.632227	Applause
+411.774295	963.829743	Heartbeat

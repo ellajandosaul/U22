@@ -1,0 +1,118 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ellajandosaul.github.io/U22/annotations/track-1-canvas-1-.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "track-1-canvas-1--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Performer 2 Speaking",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/U22/track-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413.081282,714.273419"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "track-1-canvas-1--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laugh in audience",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/U22/track-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.853732,26.462216"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "track-1-canvas-1--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laugh from the audience",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/U22/track-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "65.674409,76.259295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "track-1-canvas-1--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/U22/track-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "386.496459,408.632227"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "track-1-canvas-1--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Heartbeat",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/U22/track-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "411.774295,963.829743"
+        }
+      }
+    }
+  ]
+}
