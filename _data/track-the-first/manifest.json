@@ -23,6 +23,32 @@
         "id": "https://ellajandosaul.github.io/U22/track-the-first/canvas-1/canvas",
         "type": "Canvas",
         "duration": 968.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/U22/annotations/track-the-first-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/U22/annotations/track-the-first-canvas-1-performer--poetic-.json",
+            "label": {
+              "none": ["Performer (poetic)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/U22/annotations/track-the-first-canvas-1-synthetic----.json",
+            "label": {
+              "none": ["Synthetic (?)"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ellajandosaul.github.io/U22/track-the-first/canvas-1/paintings",
