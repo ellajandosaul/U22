@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "U-2-2-t01-04" ] },
+    "summary": { "en": [ "U-2-2 Tracks 1-4, likely Christopher Dewdney" ] },
+    "items": [
+    ]
+}
